@@ -1,0 +1,32 @@
+.crud{
+    margin-top: 25px;
+    width: 100%;
+   
+}
+
+/*CONTENEDOR TABLA*/
+.table{
+    background-color: #00000076;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+   
+   
+}
+/*casillas tabla*/
+td,th{
+    padding: 30px;
+    /*border: solid 1px black;*/
+}
+/*CABESERA TABLA*/
+thead{
+    background-color: black;
+    border-bottom: solid 5px #bbbbbb;
+    color: white;
+}
+.btn-success{
+
+    margin-top: 50px;
+    margin-left: 68%;
+}
+
