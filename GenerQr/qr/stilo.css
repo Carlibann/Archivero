@@ -1,0 +1,40 @@
+form{
+    margin-top: 90px;
+}
+.borde{
+    border: 1px solid #000;
+    /* background-color: aqua; */
+    width: 35%;
+}
+label{
+    display: block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+input{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+button{
+    display: block;
+    text-align: center;
+    margin-left: 160px;
+    margin-top: 20px;
+    background-color: black;
+    color:white;
+    font-size: 20px;
+
+}
+.borde{
+    margin-left: 30%;
+}
+img{
+   margin-left: 115px;
+   width: 290px;
+}
+h1{
+    display: block;
+   text-align: center;
+}

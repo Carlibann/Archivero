@@ -1,0 +1,40 @@
+form{
+    margin-top: 50px;
+}
+label{
+    margin-left: 450px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+input{
+    border-color: #000;
+}
+button{
+    background-color: #000;
+    color: white;
+}
+table{
+	border-collapse: collapse;
+	border: 3px solid black;
+    text-align: center;
+    width: 50%;
+    margin-left: 325px;
+    
+		
+}
+.thead{
+    background-color: rgba(0, 0, 0, 0.993);
+    color: white;
+}
+tr{
+    border-color: black;
+    
+}
+td{
+    font-size: 24px;
+}
+tr,td{
+	padding: 20px;
+    border: 1px solid #000;
+    border-spacing: 0;
+}
